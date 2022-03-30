@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6e1e0d021981441be50eb408b6e79e, type: 3}
+  m_Name: FactoryKnifes
+  m_EditorClassIdentifier: 
+  prefub: {fileID: 1315955739144649544, guid: c57d324d72f4793448d81c83a73183b6, type: 3}
+  knifeConfig: {fileID: 11400000, guid: ca1f580ef4190d846b85c9e3f338b76a, type: 2}
