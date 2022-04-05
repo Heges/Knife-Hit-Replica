@@ -6,4 +6,5 @@
 Чтобы настроить геймплей нужно изменить настройки конфиг файлов которые лежат в папке prefub.<br>
 Так же чтобы добавить новый скин, нужно создать новый скриптбл обджект и добавить его в ItemData <br>
 ссылка на APC https://drive.google.com/file/d/1y7ReB1akbLxpROkGLwn7bJ6jPlzshw2J/view?usp=sharing
-![KnifeHitReplica](https://user-images.githubusercontent.com/28998924/160867274-b67db3c9-ee4b-40b8-890e-f6d69f9450f8.gif)
+
+![newKnifeHitReplica](https://user-images.githubusercontent.com/28998924/161864168-ff8bf4e0-ddb1-483b-ac9a-fb3cdd150e10.gif)
