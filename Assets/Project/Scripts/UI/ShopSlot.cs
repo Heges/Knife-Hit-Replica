@@ -5,9 +5,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class UIShopSlot : MonoBehaviour, IPointerClickHandler
+public class ShopSlot : MonoBehaviour, IPointerClickHandler
 {
-    public Action<UIShopSlot> OnHovered;
+    public Action<ShopSlot> OnHovered;
     public string ObjectName { get; set; }
     public int Cost { get; set; }
     public bool Solded { get; private set; }

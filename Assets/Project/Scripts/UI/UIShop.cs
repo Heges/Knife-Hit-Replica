@@ -11,13 +11,13 @@ public class UIShop : MonoBehaviour
     private const string BUY = "Buy";
     private const string EQUIP = "Equip";
 
-    [SerializeField] private List<UIShopSlot> slots;
+    [SerializeField] private List<ShopSlot> slots;
     [SerializeField] private ItemData itemData;
     [SerializeField] private KnifeConfig knifeConfig;
     [SerializeField] private TMP_Text buttonText;
     [SerializeField] private TMP_Text appleCount;
 
-    private UIShopSlot activeSlot;
+    private ShopSlot activeSlot;
 
     private void OnEnable()
     {
@@ -67,7 +67,7 @@ public class UIShop : MonoBehaviour
         activeSlot = null;
     }
 
-    private void Hover(UIShopSlot hoverSlot)
+    private void Hover(ShopSlot hoverSlot)
     {
         if (hoverSlot.Solded)
         {
