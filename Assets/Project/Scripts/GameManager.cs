@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
             //обновить худ с ретрая
             GameRetryEvent?.Invoke();
         };
-        StartCoroutine(WaitTimeAndShowAnimationAndCallback(1.5f, temp));
+        StartCoroutine(WaitTimeAndShowAnimationAndCallback(2f, temp));
     }
 
     private void LevelLost()
@@ -127,7 +127,7 @@ public class GameManager : MonoBehaviour
             GameOverEvent?.Invoke(player.playerData);
             player.ResetScore();
         };
-        StartCoroutine(WaitTimeAndShowAnimationAndCallback(1.5f, temp));
+        StartCoroutine(WaitTimeAndShowAnimationAndCallback(2f, temp));
     }
 
     private IEnumerator WaitTimeAndShowAnimationAndCallback(float time, System.Action callback)
