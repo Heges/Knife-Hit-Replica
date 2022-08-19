@@ -1,5 +1,4 @@
 # Knife-Hit-Replica
-Тестовое задание Knife Hit Demo версия юнити 2020.3f.30f1 <br>
 Скопировал оригинальную игру Hit Knife <br>
 ссылка на APC https://drive.google.com/file/d/1ZFbeKLSmhl5vOZ5PuD3Y5Sg9dU5lah3d/view?usp=sharing
 
