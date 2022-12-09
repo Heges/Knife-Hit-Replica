@@ -1,5 +1,5 @@
 # Knife-Hit-Replica
-Скопировал оригинальную игру Hit Knife <br>
+Копия оригинальной игры Hit Knife <br>
 ссылка на APC https://drive.google.com/file/d/1ZFbeKLSmhl5vOZ5PuD3Y5Sg9dU5lah3d/view?usp=sharing
 
 
